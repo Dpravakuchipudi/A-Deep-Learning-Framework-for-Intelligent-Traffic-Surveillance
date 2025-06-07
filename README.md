@@ -1,15 +1,4 @@
-# Intelligent Traffic Management System using Computer Vision
-
-Published Paper : https://ieeexplore.ieee.org/abstract/document/10009105 
-
-Team : [Kshitij Darwhekar](https://www.linkedin.com/in/kshitij-darwhekar-b15a33191/),[Rushikesh Bawkar](https://www.linkedin.com/in/rushikesh-bawkar-874a931ba/) , [Sankalp Ghodke](https://www.linkedin.com/in/sankalpghodke/) , [Amey Patil](https://www.linkedin.com/in/amey-patil-7200b4213/)
-
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Requirements](#requirements)
-4. [Installation](#installation)
-5. [Usage](#usage)
+# Deep-Learning-Framework-for-Intelligent-Traffic-Surveillance
 
 
 ## Introduction
